@@ -20,5 +20,5 @@ const Movie: React.FC<NativeStackScreenProps<any, "Movies">> = ({
     <Title>Movie</Title>
   </Btn>
 );
-
+// test
 export default Movie;
