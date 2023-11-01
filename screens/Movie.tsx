@@ -17,7 +17,7 @@ const Movie: React.FC<NativeStackScreenProps<any, "Movies">> = ({
   navigation: { navigate },
 }) => (
   <Btn onPress={() => navigate("Stack", { screen: "Three" })}>
-    <Title>Movie</Title>
+    <Title>Movie123</Title>
   </Btn>
 );
 
